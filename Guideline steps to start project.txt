@@ -1,0 +1,37 @@
+Pillar WinSCP Workspace:
+hostname: Nfawzy93@ssh.pythonanywhere.com
+Username: Nfawzy93
+Password: Nf211293!
+
+
+Python Anywhere Account:
+Nfawzy93
+
+GoDaddy Account:
+353646267
+Nf211293!
+
+GoDaddy Email:
+info@pillar-portal.com
+PillarPortal$1
+
+Pillar Portal:
+karim.ayman
+Ka191994
+
+k.ayman@pillars-egypt.com
+
+Created virtual environment using this link:
+https://iqcode.com/code/python/importerror-couldnt-import-django-are-you-sure-its-installed-and-available-on-your-pythonpath-environment-variable-did-you-forget-to-activate-a-virtual-environment
+
+then pip install django in venv
+then pip install django-mathfilters in venv
+then go to mysite directory and write manage.py runserver
+
+
+
+
+new template: email_body_new.html
+edited signals: modified both
+
+take backup first then update code then test
